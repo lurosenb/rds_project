@@ -1,1 +1,6 @@
 api_key.txt
+twitter_key.txt
+twitter_secret.txt
+twitter_bearer.txt
+comments_negative.csv
+comments_positive.csv
