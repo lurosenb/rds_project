@@ -2,3 +2,6 @@
 pandas
 numpy
 google-api-python-client
+spacy
+wordcloud
+# nlp_profiler
