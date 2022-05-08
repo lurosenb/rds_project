@@ -1,0 +1,1687 @@
+,ID,Text_length,Sentiment_polarity
+0,0,medium 100-500,Pretty negative
+1,1,short <100,Pretty negative
+2,2,short <100,Neutral
+3,3,medium 100-500,Pretty negative
+4,4,short <100,Neutral
+5,5,short <100,Pretty negative
+6,6,medium 100-500,Pretty positive
+7,7,short <100,Neutral
+8,8,short <100,Pretty positive
+9,9,medium 100-500,Pretty positive
+10,10,short <100,Pretty negative
+11,11,short <100,Neutral
+12,12,short <100,Pretty negative
+13,13,medium 100-500,Pretty positive
+14,14,medium 100-500,Pretty negative
+15,15,short <100,Neutral
+16,16,medium 100-500,Pretty positive
+17,17,short <100,Neutral
+18,18,short <100,Pretty positive
+19,19,medium 100-500,Pretty negative
+20,20,short <100,Quite negative
+21,21,short <100,Neutral
+22,22,short <100,Neutral
+23,23,short <100,Pretty positive
+24,24,short <100,Pretty positive
+25,25,medium 100-500,Pretty positive
+26,26,short <100,Pretty positive
+27,27,short <100,Neutral
+28,28,medium 100-500,Neutral
+29,29,short <100,Pretty negative
+30,30,short <100,Pretty negative
+31,31,short <100,Neutral
+32,32,short <100,Neutral
+33,33,short <100,Pretty positive
+34,34,short <100,Neutral
+35,35,medium 100-500,Pretty positive
+36,36,short <100,Neutral
+37,37,medium 100-500,Pretty positive
+38,38,short <100,Neutral
+39,39,short <100,Neutral
+40,40,short <100,Pretty positive
+41,41,short <100,Neutral
+42,42,short <100,Neutral
+43,43,short <100,Neutral
+44,44,short <100,Neutral
+45,45,short <100,Neutral
+46,46,medium 100-500,Neutral
+47,47,short <100,Pretty negative
+48,48,short <100,Neutral
+49,49,short <100,Neutral
+50,50,medium 100-500,Pretty positive
+51,51,medium 100-500,Pretty negative
+52,52,short <100,
+53,53,short <100,Neutral
+54,54,short <100,Pretty negative
+55,55,short <100,Pretty positive
+56,56,short <100,Pretty negative
+57,57,medium 100-500,Pretty negative
+58,58,short <100,Neutral
+59,59,short <100,Neutral
+60,60,short <100,Pretty negative
+61,61,medium 100-500,Pretty negative
+62,62,medium 100-500,Neutral
+63,63,short <100,Pretty negative
+64,64,short <100,Neutral
+65,65,short <100,Pretty negative
+66,66,short <100,Neutral
+67,67,short <100,Neutral
+68,68,short <100,Pretty positive
+69,69,short <100,Pretty positive
+70,70,medium 100-500,Neutral
+71,71,short <100,Pretty positive
+72,72,short <100,Pretty positive
+73,73,short <100,Neutral
+74,74,short <100,Pretty negative
+75,75,medium 100-500,Pretty negative
+76,76,short <100,Neutral
+77,77,short <100,Neutral
+78,78,short <100,
+79,79,medium 100-500,Neutral
+80,80,short <100,Neutral
+81,81,medium 100-500,Pretty positive
+82,82,short <100,Pretty negative
+83,83,short <100,Neutral
+84,84,short <100,Pretty positive
+85,85,medium 100-500,Pretty positive
+86,86,medium 100-500,Pretty negative
+87,87,short <100,Neutral
+88,88,short <100,
+89,89,short <100,Neutral
+90,90,medium 100-500,Pretty positive
+91,91,short <100,Pretty negative
+92,92,short <100,Neutral
+93,93,short <100,Pretty positive
+94,94,short <100,Neutral
+95,95,short <100,Neutral
+96,96,short <100,Neutral
+97,97,medium 100-500,Pretty positive
+98,98,short <100,Pretty positive
+99,99,short <100,Pretty positive
+100,100,short <100,Neutral
+101,101,medium 100-500,Pretty positive
+102,102,medium 100-500,Very negative
+103,103,short <100,Neutral
+104,104,medium 100-500,Pretty positive
+105,105,short <100,Pretty positive
+106,106,short <100,Pretty negative
+107,107,medium 100-500,Pretty positive
+108,108,short <100,Pretty negative
+109,109,short <100,Quite negative
+110,110,short <100,Neutral
+111,111,medium 100-500,Neutral
+112,112,medium 100-500,Pretty positive
+113,113,short <100,Neutral
+114,114,short <100,Neutral
+115,115,medium 100-500,Neutral
+116,116,short <100,Neutral
+117,117,short <100,Neutral
+118,118,short <100,Neutral
+119,119,short <100,Neutral
+120,120,short <100,Pretty negative
+121,121,medium 100-500,Pretty positive
+122,122,short <100,
+123,123,short <100,Pretty positive
+124,124,short <100,Neutral
+125,125,short <100,Neutral
+126,126,short <100,Pretty negative
+127,127,short <100,Neutral
+128,128,short <100,Neutral
+129,129,short <100,Neutral
+130,130,short <100,Neutral
+131,131,medium 100-500,Pretty positive
+132,132,short <100,Neutral
+133,133,short <100,Pretty positive
+134,134,short <100,Pretty negative
+135,135,medium 100-500,Pretty negative
+136,136,short <100,Neutral
+137,137,short <100,Neutral
+138,138,short <100,Pretty positive
+139,139,medium 100-500,Neutral
+140,140,short <100,Pretty positive
+141,141,medium 100-500,Pretty positive
+142,142,short <100,Pretty positive
+143,143,short <100,Pretty positive
+144,144,short <100,Pretty positive
+145,145,short <100,Neutral
+146,146,short <100,Neutral
+147,147,short <100,Pretty positive
+148,148,short <100,Neutral
+149,149,short <100,Pretty negative
+150,150,short <100,Pretty positive
+151,151,medium 100-500,Pretty negative
+152,152,short <100,Pretty negative
+153,153,medium 100-500,Pretty positive
+154,154,medium 100-500,Pretty negative
+155,155,short <100,Pretty positive
+156,156,short <100,Neutral
+157,157,short <100,Neutral
+158,158,medium 100-500,Pretty negative
+159,159,short <100,Pretty positive
+160,160,short <100,Neutral
+161,161,medium 100-500,Pretty positive
+162,162,short <100,Pretty positive
+163,163,short <100,Pretty positive
+164,164,short <100,Pretty positive
+165,165,short <100,Pretty positive
+166,166,short <100,Pretty positive
+167,167,short <100,Pretty negative
+168,168,short <100,Neutral
+169,169,medium 100-500,Pretty negative
+170,170,short <100,Pretty positive
+171,171,short <100,Neutral
+172,172,medium 100-500,Pretty positive
+173,173,short <100,Neutral
+174,174,short <100,Pretty positive
+175,175,short <100,Pretty positive
+176,176,short <100,Pretty negative
+177,177,short <100,Pretty negative
+178,178,short <100,Neutral
+179,179,short <100,Neutral
+180,180,medium 100-500,Neutral
+181,181,short <100,
+182,182,short <100,Pretty positive
+183,183,short <100,Pretty negative
+184,184,short <100,Pretty positive
+185,185,short <100,Neutral
+186,186,short <100,Neutral
+187,187,short <100,Neutral
+188,188,short <100,Neutral
+189,189,medium 100-500,Neutral
+190,190,short <100,Neutral
+191,191,short <100,Pretty positive
+192,192,short <100,Neutral
+193,193,short <100,Neutral
+194,194,short <100,Neutral
+195,195,medium 100-500,Pretty positive
+196,196,short <100,Pretty positive
+197,197,short <100,Very positive
+198,198,short <100,Neutral
+199,199,short <100,Quite positive
+200,200,short <100,Pretty positive
+201,201,short <100,Neutral
+202,202,short <100,Neutral
+203,203,short <100,Pretty positive
+204,204,short <100,
+205,205,short <100,Neutral
+206,206,short <100,Neutral
+207,207,short <100,Neutral
+208,208,short <100,Neutral
+209,209,short <100,Pretty positive
+210,210,short <100,Pretty negative
+211,211,short <100,Neutral
+212,212,medium 100-500,Neutral
+213,213,short <100,Pretty positive
+214,214,medium 100-500,Pretty positive
+215,215,short <100,Pretty negative
+216,216,medium 100-500,Neutral
+217,217,short <100,Pretty positive
+218,218,short <100,Pretty negative
+219,219,short <100,Pretty positive
+220,220,short <100,Neutral
+221,221,short <100,Neutral
+222,222,short <100,Pretty positive
+223,223,short <100,Neutral
+224,224,short <100,Neutral
+225,225,short <100,Pretty negative
+226,226,short <100,Neutral
+227,227,medium 100-500,Pretty positive
+228,228,short <100,Neutral
+229,229,short <100,Neutral
+230,230,short <100,Pretty positive
+231,231,medium 100-500,Pretty positive
+232,232,medium 100-500,Neutral
+233,233,medium 100-500,Neutral
+234,234,short <100,Neutral
+235,235,short <100,Neutral
+236,236,short <100,Neutral
+237,237,medium 100-500,Pretty positive
+238,238,short <100,Pretty negative
+239,239,short <100,Pretty positive
+240,240,medium 100-500,Pretty positive
+241,241,short <100,Pretty positive
+242,242,short <100,Neutral
+243,243,short <100,Neutral
+244,244,short <100,Pretty negative
+245,245,short <100,Neutral
+246,246,short <100,Neutral
+247,247,short <100,Neutral
+248,248,short <100,Pretty negative
+249,249,short <100,Pretty positive
+250,250,medium 100-500,Pretty negative
+251,251,medium 100-500,Pretty positive
+252,252,short <100,Pretty negative
+253,253,short <100,Neutral
+254,254,short <100,Neutral
+255,255,medium 100-500,Pretty negative
+256,256,short <100,Pretty negative
+257,257,medium 100-500,Pretty positive
+258,258,short <100,Neutral
+259,259,medium 100-500,Neutral
+260,260,short <100,Pretty negative
+261,261,medium 100-500,Pretty negative
+262,262,short <100,Quite negative
+263,263,short <100,Pretty negative
+264,264,medium 100-500,Neutral
+265,265,short <100,Pretty positive
+266,266,short <100,Neutral
+267,267,short <100,Neutral
+268,268,short <100,Pretty negative
+269,269,short <100,
+270,270,short <100,Pretty positive
+271,271,medium 100-500,Pretty negative
+272,272,short <100,Neutral
+273,273,medium 100-500,Neutral
+274,274,medium 100-500,Neutral
+275,275,short <100,Neutral
+276,276,short <100,Pretty negative
+277,277,medium 100-500,Pretty negative
+278,278,medium 100-500,Pretty negative
+279,279,medium 100-500,Neutral
+280,280,short <100,Neutral
+281,281,short <100,Neutral
+282,282,short <100,Pretty positive
+283,283,short <100,Pretty positive
+284,284,short <100,Pretty positive
+285,285,medium 100-500,Pretty positive
+286,286,short <100,Neutral
+287,287,short <100,Pretty positive
+288,288,medium 100-500,Pretty positive
+289,289,medium 100-500,Quite negative
+290,290,short <100,Neutral
+291,291,short <100,Neutral
+292,292,short <100,Pretty positive
+293,293,medium 100-500,Pretty negative
+294,294,short <100,Pretty positive
+295,295,short <100,Neutral
+296,296,medium 100-500,Pretty negative
+297,297,short <100,Pretty positive
+298,298,medium 100-500,Neutral
+299,299,short <100,Neutral
+300,300,short <100,Neutral
+301,301,short <100,Neutral
+302,302,short <100,Neutral
+303,303,short <100,Neutral
+304,304,short <100,Neutral
+305,305,short <100,Pretty negative
+306,306,short <100,Pretty positive
+307,307,short <100,Neutral
+308,308,short <100,Neutral
+309,309,short <100,Neutral
+310,310,short <100,Pretty positive
+311,311,short <100,Neutral
+312,312,short <100,Pretty negative
+313,313,medium 100-500,Neutral
+314,314,short <100,Neutral
+315,315,short <100,Pretty positive
+316,316,medium 100-500,Neutral
+317,317,short <100,Pretty negative
+318,318,short <100,Pretty positive
+319,319,short <100,Quite positive
+320,320,short <100,Neutral
+321,321,short <100,Neutral
+322,322,short <100,Pretty negative
+323,323,short <100,Neutral
+324,324,short <100,Pretty positive
+325,325,short <100,Neutral
+326,326,medium 100-500,Pretty positive
+327,327,short <100,Pretty negative
+328,328,medium 100-500,Neutral
+329,329,short <100,Pretty negative
+330,330,short <100,Neutral
+331,331,short <100,Neutral
+332,332,short <100,Pretty negative
+333,333,short <100,Pretty negative
+334,334,short <100,Neutral
+335,335,medium 100-500,Pretty negative
+336,336,short <100,Pretty positive
+337,337,short <100,Neutral
+338,338,short <100,Neutral
+339,339,short <100,Pretty positive
+340,340,medium 100-500,Pretty positive
+341,341,short <100,Pretty negative
+342,342,short <100,Neutral
+343,343,short <100,Neutral
+344,344,medium 100-500,Pretty positive
+345,345,short <100,Pretty negative
+346,346,short <100,Pretty negative
+347,347,medium 100-500,Pretty positive
+348,348,short <100,Pretty negative
+349,349,short <100,Pretty negative
+350,350,short <100,Neutral
+351,351,short <100,Neutral
+352,352,short <100,Pretty positive
+353,353,short <100,Pretty negative
+354,354,short <100,Pretty positive
+355,355,short <100,Pretty negative
+356,356,short <100,Pretty negative
+357,357,medium 100-500,Neutral
+358,358,short <100,Neutral
+359,359,short <100,Pretty positive
+360,360,short <100,Neutral
+361,361,short <100,Pretty positive
+362,362,short <100,Pretty positive
+363,363,medium 100-500,Pretty positive
+364,364,medium 100-500,Pretty positive
+365,365,short <100,Neutral
+366,366,medium 100-500,Pretty positive
+367,367,medium 100-500,Pretty negative
+368,368,short <100,Pretty negative
+369,369,short <100,Pretty negative
+370,370,short <100,Neutral
+371,371,medium 100-500,Pretty positive
+372,372,short <100,Neutral
+373,373,medium 100-500,Neutral
+374,374,short <100,Pretty negative
+375,375,short <100,Neutral
+376,376,medium 100-500,Pretty positive
+377,377,short <100,Neutral
+378,378,short <100,Pretty positive
+379,379,short <100,Neutral
+380,380,short <100,
+381,381,short <100,Neutral
+382,382,short <100,Neutral
+383,383,short <100,Neutral
+384,384,short <100,Pretty negative
+385,385,short <100,Neutral
+386,386,short <100,Pretty negative
+387,387,short <100,Neutral
+388,388,short <100,Neutral
+389,389,short <100,Pretty positive
+390,390,short <100,Pretty negative
+391,391,short <100,Neutral
+392,392,short <100,Pretty positive
+393,393,short <100,Pretty positive
+394,394,medium 100-500,Pretty positive
+395,395,short <100,Pretty positive
+396,396,short <100,Neutral
+397,397,short <100,Pretty positive
+398,398,short <100,Neutral
+399,399,short <100,Neutral
+400,400,short <100,Neutral
+401,401,short <100,Pretty positive
+402,402,short <100,Neutral
+403,403,short <100,Neutral
+404,404,short <100,Neutral
+405,405,medium 100-500,Neutral
+406,406,short <100,Neutral
+407,407,short <100,Pretty positive
+408,408,short <100,Pretty positive
+409,409,short <100,Neutral
+410,410,short <100,Pretty positive
+411,411,short <100,Neutral
+412,412,short <100,Pretty negative
+413,413,short <100,Neutral
+414,414,short <100,Pretty negative
+415,415,short <100,Neutral
+416,416,short <100,Neutral
+417,417,short <100,Neutral
+418,418,short <100,
+419,419,short <100,Neutral
+420,420,medium 100-500,Pretty positive
+421,421,short <100,Pretty negative
+422,422,short <100,Neutral
+423,423,short <100,
+424,424,short <100,Pretty negative
+425,425,short <100,Pretty positive
+426,426,short <100,Pretty negative
+427,427,medium 100-500,Pretty negative
+428,428,short <100,Neutral
+429,429,short <100,Neutral
+430,430,short <100,Quite positive
+431,431,short <100,Pretty negative
+432,432,short <100,Pretty positive
+433,433,medium 100-500,Neutral
+434,434,short <100,Pretty positive
+435,435,medium 100-500,Neutral
+436,436,short <100,Neutral
+437,437,short <100,Neutral
+438,438,short <100,Neutral
+439,439,short <100,Pretty negative
+440,440,short <100,Neutral
+441,441,short <100,Pretty negative
+442,442,short <100,Neutral
+443,443,short <100,Neutral
+444,444,short <100,Neutral
+445,445,short <100,Pretty positive
+446,446,short <100,Neutral
+447,447,short <100,Neutral
+448,448,medium 100-500,Pretty positive
+449,449,short <100,Pretty negative
+450,450,short <100,Pretty negative
+451,451,short <100,Pretty positive
+452,452,short <100,Pretty positive
+453,453,short <100,Pretty positive
+454,454,medium 100-500,Pretty positive
+455,455,short <100,Pretty positive
+456,456,medium 100-500,Neutral
+457,457,medium 100-500,Neutral
+458,458,short <100,Neutral
+459,459,short <100,Pretty positive
+460,460,medium 100-500,Neutral
+461,461,short <100,Neutral
+462,462,short <100,Pretty positive
+463,463,short <100,Pretty positive
+464,464,short <100,Pretty negative
+465,465,short <100,Neutral
+466,466,short <100,Neutral
+467,467,short <100,Pretty positive
+468,468,medium 100-500,Pretty negative
+469,469,short <100,Neutral
+470,470,short <100,Pretty positive
+471,471,short <100,Pretty positive
+472,472,medium 100-500,Pretty positive
+473,473,short <100,Pretty positive
+474,474,medium 100-500,Neutral
+475,475,short <100,Pretty negative
+476,476,medium 100-500,Pretty negative
+477,477,short <100,Pretty positive
+478,478,short <100,Neutral
+479,479,short <100,Neutral
+480,480,short <100,Pretty negative
+481,481,medium 100-500,Neutral
+482,482,short <100,Pretty positive
+483,483,medium 100-500,Pretty negative
+484,484,medium 100-500,Pretty positive
+485,485,short <100,Neutral
+486,486,short <100,Pretty positive
+487,487,short <100,Quite negative
+488,488,short <100,Neutral
+489,489,short <100,Pretty positive
+490,490,medium 100-500,Neutral
+491,491,short <100,Neutral
+492,492,short <100,Pretty positive
+493,493,short <100,Pretty positive
+494,494,short <100,Quite negative
+495,495,medium 100-500,Neutral
+496,496,short <100,Neutral
+497,497,short <100,Pretty positive
+498,498,short <100,Neutral
+499,499,short <100,Neutral
+500,500,short <100,Pretty positive
+501,501,short <100,Pretty negative
+502,502,short <100,Pretty negative
+503,503,short <100,Neutral
+504,504,short <100,Pretty positive
+505,505,short <100,Neutral
+506,506,short <100,Pretty positive
+507,507,short <100,Pretty negative
+508,508,short <100,Neutral
+509,509,short <100,Neutral
+510,510,short <100,Pretty negative
+511,511,short <100,Pretty positive
+512,512,medium 100-500,Pretty negative
+513,513,short <100,Pretty positive
+514,514,medium 100-500,Pretty positive
+515,515,short <100,Pretty positive
+516,516,short <100,Pretty positive
+517,517,short <100,Neutral
+518,518,short <100,Neutral
+519,519,short <100,Neutral
+520,520,short <100,Neutral
+521,521,short <100,Pretty negative
+522,522,short <100,Neutral
+523,523,short <100,
+524,524,short <100,Neutral
+525,525,medium 100-500,Pretty positive
+526,526,short <100,Neutral
+527,527,short <100,Pretty positive
+528,528,medium 100-500,Neutral
+529,529,short <100,Pretty positive
+530,530,medium 100-500,Pretty positive
+531,531,short <100,Pretty negative
+532,532,short <100,Neutral
+533,533,short <100,Pretty negative
+534,534,short <100,Neutral
+535,535,medium 100-500,Pretty positive
+536,536,short <100,Neutral
+537,537,short <100,Neutral
+538,538,short <100,Pretty positive
+539,539,medium 100-500,Neutral
+540,540,short <100,Pretty positive
+541,541,short <100,Neutral
+542,542,short <100,Pretty positive
+543,543,medium 100-500,Pretty positive
+544,544,short <100,Neutral
+545,545,short <100,Neutral
+546,546,medium 100-500,Pretty positive
+547,547,short <100,Neutral
+548,548,short <100,Neutral
+549,549,medium 100-500,Pretty positive
+550,550,short <100,Pretty negative
+551,551,short <100,Neutral
+552,552,short <100,Pretty positive
+553,553,short <100,
+554,554,short <100,Quite positive
+555,555,short <100,Pretty positive
+556,556,short <100,Neutral
+557,557,medium 100-500,Neutral
+558,558,short <100,Pretty positive
+559,559,short <100,Neutral
+560,560,short <100,Neutral
+561,561,short <100,Neutral
+562,562,medium 100-500,Pretty negative
+563,563,short <100,Neutral
+564,564,short <100,Pretty positive
+565,565,medium 100-500,Neutral
+566,566,medium 100-500,Pretty negative
+567,567,medium 100-500,Neutral
+568,568,short <100,Pretty negative
+569,569,medium 100-500,Pretty negative
+570,570,short <100,Pretty negative
+571,571,short <100,Neutral
+572,572,medium 100-500,Pretty positive
+573,573,medium 100-500,Pretty negative
+574,574,short <100,Pretty negative
+575,575,short <100,Pretty positive
+576,576,short <100,Neutral
+577,577,medium 100-500,Pretty positive
+578,578,short <100,Neutral
+579,579,medium 100-500,Pretty positive
+580,580,short <100,Neutral
+581,581,short <100,Pretty positive
+582,582,short <100,Neutral
+583,583,short <100,Pretty positive
+584,584,medium 100-500,Neutral
+585,585,short <100,Quite positive
+586,586,short <100,Neutral
+587,587,short <100,Pretty positive
+588,588,short <100,Pretty positive
+589,589,medium 100-500,Neutral
+590,590,short <100,Pretty positive
+591,591,medium 100-500,Pretty positive
+592,592,short <100,
+593,593,short <100,Pretty negative
+594,594,short <100,
+595,595,short <100,Pretty negative
+596,596,medium 100-500,Pretty negative
+597,597,short <100,Neutral
+598,598,short <100,Pretty negative
+599,599,short <100,Pretty negative
+600,600,short <100,Pretty positive
+601,601,medium 100-500,Neutral
+602,602,short <100,
+603,603,short <100,Pretty positive
+604,604,short <100,Pretty positive
+605,605,medium 100-500,Pretty positive
+606,606,medium 100-500,Pretty positive
+607,607,medium 100-500,Neutral
+608,608,medium 100-500,Pretty positive
+609,609,short <100,Neutral
+610,610,short <100,Pretty negative
+611,611,short <100,Neutral
+612,612,medium 100-500,Pretty positive
+613,613,short <100,Pretty negative
+614,614,medium 100-500,Pretty positive
+615,615,short <100,Neutral
+616,616,medium 100-500,Pretty positive
+617,617,short <100,Pretty positive
+618,618,medium 100-500,Neutral
+619,619,short <100,Pretty positive
+620,620,short <100,Neutral
+621,621,medium 100-500,Pretty negative
+622,622,short <100,Neutral
+623,623,medium 100-500,Pretty positive
+624,624,short <100,Neutral
+625,625,short <100,Neutral
+626,626,short <100,Neutral
+627,627,short <100,Neutral
+628,628,medium 100-500,Neutral
+629,629,short <100,Pretty positive
+630,630,medium 100-500,Pretty positive
+631,631,medium 100-500,Neutral
+632,632,medium 100-500,Pretty positive
+633,633,short <100,Neutral
+634,634,medium 100-500,Pretty negative
+635,635,short <100,Pretty positive
+636,636,short <100,Very negative
+637,637,short <100,Neutral
+638,638,short <100,Neutral
+639,639,short <100,Neutral
+640,640,medium 100-500,Pretty positive
+641,641,short <100,Neutral
+642,642,short <100,Neutral
+643,643,medium 100-500,Neutral
+644,644,medium 100-500,Pretty negative
+645,645,short <100,Neutral
+646,646,medium 100-500,Pretty positive
+647,647,short <100,Pretty negative
+648,648,short <100,Pretty positive
+649,649,short <100,Pretty positive
+650,650,short <100,Pretty positive
+651,651,short <100,Neutral
+652,652,short <100,Neutral
+653,653,short <100,Neutral
+654,654,short <100,Neutral
+655,655,short <100,Neutral
+656,656,short <100,Neutral
+657,657,medium 100-500,Pretty positive
+658,658,short <100,Neutral
+659,659,short <100,Very negative
+660,660,medium 100-500,Pretty positive
+661,661,short <100,Neutral
+662,662,short <100,
+663,663,short <100,
+664,664,short <100,Neutral
+665,665,medium 100-500,Pretty negative
+666,666,medium 100-500,Neutral
+667,667,short <100,Quite positive
+668,668,short <100,Pretty positive
+669,669,short <100,Pretty negative
+670,670,short <100,Pretty positive
+671,671,short <100,Pretty negative
+672,672,short <100,Neutral
+673,673,short <100,Neutral
+674,674,medium 100-500,Neutral
+675,675,short <100,Neutral
+676,676,short <100,Pretty positive
+677,677,medium 100-500,Neutral
+678,678,short <100,Neutral
+679,679,short <100,Neutral
+680,680,short <100,Pretty negative
+681,681,short <100,Pretty positive
+682,682,short <100,Neutral
+683,683,medium 100-500,Pretty positive
+684,684,short <100,Neutral
+685,685,short <100,Pretty negative
+686,686,short <100,Pretty positive
+687,687,short <100,Neutral
+688,688,short <100,Neutral
+689,689,short <100,Pretty negative
+690,690,medium 100-500,Pretty positive
+691,691,medium 100-500,Pretty negative
+692,692,short <100,Pretty negative
+693,693,short <100,Pretty positive
+694,694,short <100,Pretty positive
+695,695,short <100,Pretty negative
+696,696,short <100,Pretty negative
+697,697,short <100,Pretty positive
+698,698,short <100,Neutral
+699,699,short <100,Neutral
+700,700,short <100,Neutral
+701,701,short <100,Pretty negative
+702,702,medium 100-500,Neutral
+703,703,short <100,Quite negative
+704,704,short <100,Neutral
+705,705,short <100,Neutral
+706,706,short <100,Neutral
+707,707,short <100,Quite positive
+708,708,medium 100-500,Pretty positive
+709,709,short <100,Pretty positive
+710,710,medium 100-500,Pretty positive
+711,711,medium 100-500,Pretty negative
+712,712,short <100,Neutral
+713,713,short <100,Neutral
+714,714,short <100,Neutral
+715,715,short <100,Neutral
+716,716,short <100,Pretty positive
+717,717,short <100,Neutral
+718,718,short <100,Pretty negative
+719,719,short <100,Neutral
+720,720,short <100,Neutral
+721,721,short <100,Neutral
+722,722,short <100,Pretty negative
+723,723,medium 100-500,Pretty positive
+724,724,medium 100-500,Neutral
+725,725,short <100,Neutral
+726,726,short <100,Neutral
+727,727,short <100,Neutral
+728,728,short <100,Pretty positive
+729,729,short <100,Neutral
+730,730,short <100,Neutral
+731,731,short <100,Pretty positive
+732,732,short <100,Neutral
+733,733,short <100,Neutral
+734,734,medium 100-500,Pretty negative
+735,735,short <100,Neutral
+736,736,medium 100-500,Neutral
+737,737,medium 100-500,Pretty negative
+738,738,short <100,Neutral
+739,739,short <100,Pretty negative
+740,740,short <100,Pretty positive
+741,741,short <100,Neutral
+742,742,medium 100-500,Pretty positive
+743,743,short <100,Neutral
+744,744,short <100,Pretty negative
+745,745,short <100,Pretty negative
+746,746,short <100,Neutral
+747,747,short <100,Pretty negative
+748,748,short <100,Neutral
+749,749,short <100,Neutral
+750,750,short <100,Neutral
+751,751,short <100,Pretty positive
+752,752,short <100,Neutral
+753,753,short <100,Pretty positive
+754,754,medium 100-500,Pretty positive
+755,755,short <100,Neutral
+756,756,short <100,Neutral
+757,757,short <100,Pretty positive
+758,758,medium 100-500,Pretty positive
+759,759,short <100,Pretty positive
+760,760,medium 100-500,Neutral
+761,761,medium 100-500,Neutral
+762,762,short <100,Neutral
+763,763,short <100,Neutral
+764,764,short <100,Pretty positive
+765,765,short <100,Neutral
+766,766,short <100,Neutral
+767,767,short <100,Pretty negative
+768,768,short <100,Neutral
+769,769,short <100,Pretty negative
+770,770,short <100,Pretty positive
+771,771,medium 100-500,Neutral
+772,772,medium 100-500,Neutral
+773,773,short <100,Neutral
+774,774,medium 100-500,Pretty positive
+775,775,short <100,Neutral
+776,776,short <100,Neutral
+777,777,short <100,Pretty negative
+778,778,short <100,Pretty negative
+779,779,short <100,Pretty positive
+780,780,medium 100-500,Pretty positive
+781,781,short <100,Neutral
+782,782,medium 100-500,Neutral
+783,783,short <100,Neutral
+784,784,medium 100-500,Pretty positive
+785,785,short <100,Neutral
+786,786,short <100,Neutral
+787,787,short <100,Pretty positive
+788,788,short <100,Neutral
+789,789,medium 100-500,Pretty negative
+790,790,short <100,Pretty negative
+791,791,short <100,Pretty negative
+792,792,short <100,Neutral
+793,793,short <100,Pretty positive
+794,794,medium 100-500,Pretty positive
+795,795,medium 100-500,Pretty positive
+796,796,short <100,Neutral
+797,797,medium 100-500,Pretty positive
+798,798,short <100,Neutral
+799,799,medium 100-500,Pretty positive
+800,800,short <100,Neutral
+801,801,short <100,Neutral
+802,802,short <100,Neutral
+803,803,short <100,Pretty positive
+804,804,short <100,Pretty positive
+805,805,short <100,Neutral
+806,806,medium 100-500,Pretty positive
+807,807,medium 100-500,Pretty negative
+808,808,short <100,Neutral
+809,809,short <100,Pretty positive
+810,810,short <100,Pretty negative
+811,811,short <100,Neutral
+812,812,short <100,Pretty positive
+813,813,short <100,Pretty positive
+814,814,short <100,Neutral
+815,815,short <100,Neutral
+816,816,short <100,Neutral
+817,817,short <100,Neutral
+818,818,short <100,Neutral
+819,819,short <100,Pretty negative
+820,820,medium 100-500,Pretty positive
+821,821,short <100,Neutral
+822,822,medium 100-500,Pretty negative
+823,823,medium 100-500,Pretty negative
+824,824,short <100,Pretty negative
+825,825,short <100,Neutral
+826,826,short <100,Pretty positive
+827,827,short <100,Pretty positive
+828,828,short <100,Neutral
+829,829,short <100,Pretty negative
+830,830,medium 100-500,Very negative
+831,831,short <100,Very positive
+832,832,short <100,Pretty negative
+833,833,short <100,Pretty negative
+834,834,short <100,Pretty negative
+835,835,short <100,Pretty positive
+836,836,short <100,Pretty negative
+837,837,medium 100-500,Pretty negative
+838,838,short <100,Pretty positive
+839,839,short <100,Pretty negative
+840,840,short <100,Pretty positive
+841,841,medium 100-500,Neutral
+842,842,short <100,Neutral
+843,843,short <100,Neutral
+844,844,short <100,Neutral
+845,845,short <100,Neutral
+846,846,medium 100-500,Pretty positive
+847,847,short <100,Pretty positive
+848,848,medium 100-500,Pretty positive
+849,849,short <100,Pretty positive
+850,850,short <100,Pretty positive
+851,851,short <100,Neutral
+852,852,short <100,Neutral
+853,853,short <100,Neutral
+854,854,short <100,Pretty positive
+855,855,short <100,Neutral
+856,856,short <100,Neutral
+857,857,medium 100-500,Pretty positive
+858,858,short <100,Pretty positive
+859,859,short <100,Pretty negative
+860,860,short <100,Neutral
+861,861,short <100,Neutral
+862,862,short <100,Neutral
+863,863,medium 100-500,Pretty positive
+864,864,medium 100-500,Pretty negative
+865,865,medium 100-500,Pretty positive
+866,866,short <100,Neutral
+867,867,short <100,Pretty negative
+868,868,medium 100-500,Pretty positive
+869,869,medium 100-500,Pretty negative
+870,870,short <100,Neutral
+871,871,short <100,Neutral
+872,872,short <100,Neutral
+873,873,short <100,Neutral
+874,874,medium 100-500,Pretty positive
+875,875,short <100,Neutral
+876,876,short <100,Pretty positive
+877,877,short <100,Pretty positive
+878,878,medium 100-500,Neutral
+879,879,short <100,Pretty positive
+880,880,short <100,Neutral
+881,881,short <100,Neutral
+882,882,short <100,Pretty negative
+883,883,medium 100-500,Pretty positive
+884,884,short <100,Neutral
+885,885,short <100,Neutral
+886,886,short <100,Neutral
+887,887,short <100,Quite negative
+888,888,short <100,Neutral
+889,889,short <100,Pretty positive
+890,890,short <100,Pretty positive
+891,891,short <100,Neutral
+892,892,short <100,Pretty positive
+893,893,short <100,Neutral
+894,894,short <100,Neutral
+895,895,short <100,Neutral
+896,896,short <100,Pretty positive
+897,897,short <100,Pretty negative
+898,898,medium 100-500,Pretty positive
+899,899,short <100,Pretty negative
+900,900,short <100,Pretty positive
+901,901,medium 100-500,Pretty positive
+902,902,short <100,Pretty negative
+903,903,short <100,Neutral
+904,904,short <100,Pretty negative
+905,905,short <100,Neutral
+906,906,medium 100-500,Pretty positive
+907,907,short <100,Neutral
+908,908,short <100,Neutral
+909,909,short <100,Neutral
+910,910,short <100,Pretty positive
+911,911,medium 100-500,Pretty positive
+912,912,medium 100-500,Pretty positive
+913,913,short <100,Pretty negative
+914,914,medium 100-500,Neutral
+915,915,short <100,Pretty negative
+916,916,short <100,Neutral
+917,917,short <100,Pretty negative
+918,918,medium 100-500,Pretty negative
+919,919,short <100,Neutral
+920,920,short <100,Pretty negative
+921,921,short <100,Pretty positive
+922,922,short <100,Neutral
+923,923,medium 100-500,Pretty positive
+924,924,short <100,Pretty positive
+925,925,short <100,Neutral
+926,926,medium 100-500,Pretty positive
+927,927,medium 100-500,Pretty positive
+928,928,medium 100-500,Pretty positive
+929,929,short <100,Neutral
+930,930,short <100,Pretty positive
+931,931,short <100,Pretty positive
+932,932,medium 100-500,Pretty positive
+933,933,short <100,Very negative
+934,934,short <100,Neutral
+935,935,short <100,Pretty positive
+936,936,short <100,
+937,937,short <100,Pretty negative
+938,938,short <100,Pretty negative
+939,939,medium 100-500,Pretty negative
+940,940,short <100,Pretty positive
+941,941,short <100,Pretty positive
+942,942,medium 100-500,Pretty positive
+943,943,short <100,Neutral
+944,944,short <100,Neutral
+945,945,short <100,Neutral
+946,946,short <100,Neutral
+947,947,short <100,Neutral
+948,948,short <100,Neutral
+949,949,short <100,Pretty positive
+950,950,short <100,Pretty negative
+951,951,short <100,Neutral
+952,952,medium 100-500,Pretty negative
+953,953,short <100,Pretty positive
+954,954,short <100,Neutral
+955,955,short <100,Neutral
+956,956,medium 100-500,Pretty positive
+957,957,medium 100-500,Pretty positive
+958,958,medium 100-500,Pretty positive
+959,959,short <100,Pretty positive
+960,960,short <100,Neutral
+961,961,medium 100-500,Neutral
+962,962,medium 100-500,Pretty negative
+963,963,short <100,Pretty negative
+964,964,short <100,
+965,965,medium 100-500,Pretty positive
+966,966,short <100,Neutral
+967,967,short <100,Pretty positive
+968,968,short <100,Pretty negative
+969,969,short <100,Neutral
+970,970,short <100,Neutral
+971,971,short <100,Neutral
+972,972,short <100,Neutral
+973,973,short <100,Neutral
+974,974,short <100,Neutral
+975,975,medium 100-500,Neutral
+976,976,medium 100-500,Pretty negative
+977,977,short <100,Neutral
+978,978,short <100,Neutral
+979,979,short <100,Neutral
+980,980,medium 100-500,Pretty positive
+981,981,short <100,Neutral
+982,982,short <100,Pretty positive
+983,983,short <100,Pretty positive
+984,984,short <100,Pretty positive
+985,985,short <100,Neutral
+986,986,short <100,Neutral
+987,987,medium 100-500,Neutral
+988,988,short <100,Neutral
+989,989,medium 100-500,Pretty negative
+990,990,medium 100-500,Pretty positive
+991,991,short <100,Pretty negative
+992,992,short <100,Neutral
+993,993,short <100,
+994,994,medium 100-500,Pretty positive
+995,995,short <100,Pretty negative
+996,996,short <100,Neutral
+997,997,short <100,Neutral
+998,998,short <100,Neutral
+999,999,medium 100-500,Neutral
+1000,1000,medium 100-500,Pretty negative
+1001,1001,short <100,Pretty positive
+1002,1002,medium 100-500,Pretty positive
+1003,1003,short <100,Pretty positive
+1004,1004,short <100,Pretty positive
+1005,1005,short <100,Pretty positive
+1006,1006,short <100,Pretty positive
+1007,1007,short <100,Neutral
+1008,1008,short <100,Neutral
+1009,1009,short <100,Neutral
+1010,1010,medium 100-500,Pretty positive
+1011,1011,short <100,Pretty positive
+1012,1012,short <100,Neutral
+1013,1013,short <100,Pretty negative
+1014,1014,short <100,Pretty negative
+1015,1015,medium 100-500,Pretty negative
+1016,1016,short <100,Pretty negative
+1017,1017,short <100,Neutral
+1018,1018,medium 100-500,Pretty positive
+1019,1019,short <100,Neutral
+1020,1020,short <100,Neutral
+1021,1021,medium 100-500,Pretty negative
+1022,1022,short <100,Pretty negative
+1023,1023,short <100,Neutral
+1024,1024,short <100,Neutral
+1025,1025,short <100,Pretty positive
+1026,1026,short <100,Neutral
+1027,1027,short <100,Pretty negative
+1028,1028,medium 100-500,Pretty negative
+1029,1029,short <100,Neutral
+1030,1030,short <100,Neutral
+1031,1031,short <100,Pretty positive
+1032,1032,short <100,Neutral
+1033,1033,medium 100-500,Neutral
+1034,1034,short <100,Neutral
+1035,1035,short <100,Pretty negative
+1036,1036,medium 100-500,Neutral
+1037,1037,medium 100-500,Very positive
+1038,1038,short <100,Neutral
+1039,1039,short <100,Pretty positive
+1040,1040,short <100,Neutral
+1041,1041,short <100,Pretty negative
+1042,1042,medium 100-500,Pretty positive
+1043,1043,short <100,Neutral
+1044,1044,short <100,Neutral
+1045,1045,short <100,Pretty positive
+1046,1046,short <100,Pretty negative
+1047,1047,medium 100-500,Neutral
+1048,1048,short <100,Pretty positive
+1049,1049,short <100,Pretty positive
+1050,1050,short <100,Pretty positive
+1051,1051,short <100,Neutral
+1052,1052,short <100,Neutral
+1053,1053,short <100,Neutral
+1054,1054,short <100,Neutral
+1055,1055,short <100,Neutral
+1056,1056,short <100,Neutral
+1057,1057,medium 100-500,Pretty negative
+1058,1058,short <100,Neutral
+1059,1059,short <100,Neutral
+1060,1060,short <100,Neutral
+1061,1061,short <100,Pretty positive
+1062,1062,short <100,Pretty negative
+1063,1063,medium 100-500,Neutral
+1064,1064,short <100,Neutral
+1065,1065,medium 100-500,Neutral
+1066,1066,short <100,Pretty positive
+1067,1067,short <100,Pretty negative
+1068,1068,short <100,Quite negative
+1069,1069,short <100,Neutral
+1070,1070,medium 100-500,Pretty positive
+1071,1071,medium 100-500,Quite positive
+1072,1072,medium 100-500,Pretty positive
+1073,1073,medium 100-500,Neutral
+1074,1074,medium 100-500,Pretty positive
+1075,1075,medium 100-500,Quite positive
+1076,1076,medium 100-500,Neutral
+1077,1077,medium 100-500,Neutral
+1078,1078,short <100,Neutral
+1079,1079,short <100,Neutral
+1080,1080,medium 100-500,Neutral
+1081,1081,short <100,Pretty negative
+1082,1082,short <100,Pretty negative
+1083,1083,short <100,Neutral
+1084,1084,short <100,Pretty positive
+1085,1085,short <100,Neutral
+1086,1086,short <100,Pretty positive
+1087,1087,short <100,
+1088,1088,short <100,Neutral
+1089,1089,short <100,Neutral
+1090,1090,medium 100-500,Pretty negative
+1091,1091,medium 100-500,Neutral
+1092,1092,short <100,Pretty positive
+1093,1093,short <100,Pretty negative
+1094,1094,medium 100-500,Pretty positive
+1095,1095,medium 100-500,Pretty positive
+1096,1096,medium 100-500,Pretty negative
+1097,1097,short <100,
+1098,1098,short <100,Pretty positive
+1099,1099,short <100,Neutral
+1100,1100,medium 100-500,Pretty negative
+1101,1101,short <100,Neutral
+1102,1102,medium 100-500,Neutral
+1103,1103,medium 100-500,Neutral
+1104,1104,short <100,Pretty positive
+1105,1105,short <100,Pretty positive
+1106,1106,short <100,Neutral
+1107,1107,short <100,Pretty positive
+1108,1108,short <100,Neutral
+1109,1109,short <100,Neutral
+1110,1110,short <100,Pretty positive
+1111,1111,medium 100-500,Pretty positive
+1112,1112,short <100,Pretty negative
+1113,1113,short <100,Neutral
+1114,1114,short <100,Pretty negative
+1115,1115,short <100,Neutral
+1116,1116,short <100,Pretty negative
+1117,1117,short <100,Neutral
+1118,1118,medium 100-500,Pretty positive
+1119,1119,short <100,
+1120,1120,short <100,Quite negative
+1121,1121,medium 100-500,Pretty positive
+1122,1122,short <100,Pretty negative
+1123,1123,short <100,Neutral
+1124,1124,short <100,Pretty positive
+1125,1125,short <100,Neutral
+1126,1126,short <100,Neutral
+1127,1127,short <100,Pretty positive
+1128,1128,medium 100-500,Pretty positive
+1129,1129,short <100,Neutral
+1130,1130,short <100,Pretty negative
+1131,1131,short <100,Pretty negative
+1132,1132,short <100,Pretty negative
+1133,1133,medium 100-500,Pretty positive
+1134,1134,short <100,Neutral
+1135,1135,medium 100-500,Pretty negative
+1136,1136,short <100,Neutral
+1137,1137,short <100,Neutral
+1138,1138,short <100,Pretty negative
+1139,1139,medium 100-500,Pretty positive
+1140,1140,short <100,Neutral
+1141,1141,short <100,Neutral
+1142,1142,medium 100-500,Pretty positive
+1143,1143,short <100,Neutral
+1144,1144,short <100,Pretty negative
+1145,1145,short <100,Quite positive
+1146,1146,short <100,Neutral
+1147,1147,short <100,Neutral
+1148,1148,short <100,Neutral
+1149,1149,short <100,Pretty negative
+1150,1150,short <100,Pretty negative
+1151,1151,short <100,Pretty positive
+1152,1152,short <100,Pretty positive
+1153,1153,short <100,Neutral
+1154,1154,short <100,Neutral
+1155,1155,short <100,Pretty positive
+1156,1156,short <100,Neutral
+1157,1157,short <100,Neutral
+1158,1158,medium 100-500,Pretty positive
+1159,1159,short <100,Pretty positive
+1160,1160,short <100,Neutral
+1161,1161,medium 100-500,Pretty negative
+1162,1162,medium 100-500,Pretty positive
+1163,1163,short <100,Pretty negative
+1164,1164,short <100,Pretty positive
+1165,1165,short <100,Neutral
+1166,1166,short <100,Pretty positive
+1167,1167,short <100,Neutral
+1168,1168,short <100,
+1169,1169,short <100,Neutral
+1170,1170,medium 100-500,Neutral
+1171,1171,medium 100-500,Pretty positive
+1172,1172,short <100,Neutral
+1173,1173,short <100,Pretty positive
+1174,1174,short <100,Neutral
+1175,1175,short <100,Very positive
+1176,1176,medium 100-500,Pretty negative
+1177,1177,short <100,Pretty positive
+1178,1178,short <100,Pretty positive
+1179,1179,short <100,Neutral
+1180,1180,short <100,Pretty positive
+1181,1181,short <100,Neutral
+1182,1182,short <100,Neutral
+1183,1183,short <100,Neutral
+1184,1184,short <100,Pretty positive
+1185,1185,medium 100-500,Neutral
+1186,1186,short <100,Neutral
+1187,1187,medium 100-500,Pretty positive
+1188,1188,medium 100-500,Pretty positive
+1189,1189,short <100,Neutral
+1190,1190,medium 100-500,Pretty negative
+1191,1191,short <100,Pretty negative
+1192,1192,short <100,Neutral
+1193,1193,medium 100-500,Pretty positive
+1194,1194,medium 100-500,Pretty negative
+1195,1195,short <100,Pretty positive
+1196,1196,short <100,Pretty negative
+1197,1197,medium 100-500,Pretty positive
+1198,1198,short <100,Pretty negative
+1199,1199,medium 100-500,Neutral
+1200,1200,short <100,Neutral
+1201,1201,medium 100-500,Pretty positive
+1202,1202,short <100,Neutral
+1203,1203,short <100,Neutral
+1204,1204,short <100,Pretty negative
+1205,1205,short <100,Neutral
+1206,1206,short <100,Pretty negative
+1207,1207,medium 100-500,Pretty positive
+1208,1208,short <100,Pretty negative
+1209,1209,short <100,Neutral
+1210,1210,short <100,Neutral
+1211,1211,short <100,Neutral
+1212,1212,short <100,Pretty negative
+1213,1213,short <100,Neutral
+1214,1214,short <100,Pretty negative
+1215,1215,short <100,Neutral
+1216,1216,short <100,Pretty positive
+1217,1217,short <100,Neutral
+1218,1218,short <100,Pretty positive
+1219,1219,short <100,Pretty negative
+1220,1220,medium 100-500,Pretty positive
+1221,1221,short <100,Pretty positive
+1222,1222,short <100,Neutral
+1223,1223,medium 100-500,Neutral
+1224,1224,short <100,Pretty negative
+1225,1225,short <100,Pretty positive
+1226,1226,medium 100-500,Neutral
+1227,1227,medium 100-500,Pretty positive
+1228,1228,short <100,Pretty positive
+1229,1229,short <100,Neutral
+1230,1230,short <100,Neutral
+1231,1231,short <100,Neutral
+1232,1232,short <100,Neutral
+1233,1233,medium 100-500,Neutral
+1234,1234,short <100,Neutral
+1235,1235,short <100,Neutral
+1236,1236,short <100,Pretty negative
+1237,1237,medium 100-500,Pretty negative
+1238,1238,short <100,Pretty negative
+1239,1239,short <100,Neutral
+1240,1240,short <100,Pretty positive
+1241,1241,short <100,Pretty positive
+1242,1242,medium 100-500,Neutral
+1243,1243,short <100,Neutral
+1244,1244,short <100,Pretty negative
+1245,1245,short <100,Pretty positive
+1246,1246,short <100,Pretty positive
+1247,1247,short <100,Pretty positive
+1248,1248,short <100,Pretty positive
+1249,1249,short <100,Pretty positive
+1250,1250,medium 100-500,Pretty positive
+1251,1251,medium 100-500,Neutral
+1252,1252,medium 100-500,Pretty positive
+1253,1253,short <100,Neutral
+1254,1254,medium 100-500,Neutral
+1255,1255,short <100,Pretty positive
+1256,1256,short <100,Pretty positive
+1257,1257,medium 100-500,Pretty positive
+1258,1258,medium 100-500,Pretty positive
+1259,1259,short <100,Neutral
+1260,1260,short <100,Pretty positive
+1261,1261,medium 100-500,Neutral
+1262,1262,short <100,Pretty negative
+1263,1263,short <100,Neutral
+1264,1264,medium 100-500,Pretty positive
+1265,1265,short <100,Pretty negative
+1266,1266,short <100,Pretty positive
+1267,1267,short <100,Pretty negative
+1268,1268,short <100,Pretty positive
+1269,1269,medium 100-500,Pretty negative
+1270,1270,short <100,Neutral
+1271,1271,medium 100-500,Neutral
+1272,1272,short <100,Neutral
+1273,1273,short <100,Neutral
+1274,1274,medium 100-500,Pretty negative
+1275,1275,short <100,Neutral
+1276,1276,short <100,Neutral
+1277,1277,short <100,Pretty positive
+1278,1278,medium 100-500,Pretty positive
+1279,1279,short <100,Neutral
+1280,1280,short <100,Pretty negative
+1281,1281,short <100,Neutral
+1282,1282,short <100,Neutral
+1283,1283,short <100,Neutral
+1284,1284,medium 100-500,Pretty positive
+1285,1285,short <100,Neutral
+1286,1286,short <100,Neutral
+1287,1287,short <100,Neutral
+1288,1288,short <100,Neutral
+1289,1289,short <100,Neutral
+1290,1290,medium 100-500,Pretty negative
+1291,1291,short <100,
+1292,1292,medium 100-500,Pretty negative
+1293,1293,medium 100-500,Pretty positive
+1294,1294,short <100,Pretty positive
+1295,1295,short <100,Pretty positive
+1296,1296,short <100,Neutral
+1297,1297,medium 100-500,Pretty negative
+1298,1298,short <100,Pretty negative
+1299,1299,medium 100-500,Pretty positive
+1300,1300,medium 100-500,Neutral
+1301,1301,medium 100-500,Pretty positive
+1302,1302,short <100,Neutral
+1303,1303,medium 100-500,Pretty positive
+1304,1304,short <100,Pretty positive
+1305,1305,short <100,Pretty negative
+1306,1306,short <100,Pretty negative
+1307,1307,short <100,Quite positive
+1308,1308,medium 100-500,Pretty positive
+1309,1309,medium 100-500,Pretty negative
+1310,1310,short <100,Neutral
+1311,1311,short <100,Neutral
+1312,1312,medium 100-500,Pretty negative
+1313,1313,short <100,Neutral
+1314,1314,short <100,Neutral
+1315,1315,short <100,Pretty positive
+1316,1316,short <100,Quite negative
+1317,1317,long >500,Pretty positive
+1318,1318,short <100,Neutral
+1319,1319,short <100,Neutral
+1320,1320,medium 100-500,Pretty positive
+1321,1321,medium 100-500,Neutral
+1322,1322,short <100,Neutral
+1323,1323,short <100,Neutral
+1324,1324,medium 100-500,Neutral
+1325,1325,short <100,Neutral
+1326,1326,short <100,Neutral
+1327,1327,short <100,Neutral
+1328,1328,medium 100-500,Quite negative
+1329,1329,short <100,Pretty positive
+1330,1330,medium 100-500,Neutral
+1331,1331,short <100,Pretty negative
+1332,1332,short <100,Pretty positive
+1333,1333,short <100,Neutral
+1334,1334,short <100,Pretty negative
+1335,1335,short <100,
+1336,1336,short <100,Neutral
+1337,1337,short <100,Pretty positive
+1338,1338,medium 100-500,Pretty negative
+1339,1339,short <100,Pretty positive
+1340,1340,short <100,Quite negative
+1341,1341,short <100,Pretty positive
+1342,1342,short <100,Pretty positive
+1343,1343,medium 100-500,Pretty negative
+1344,1344,short <100,Pretty negative
+1345,1345,medium 100-500,Pretty negative
+1346,1346,short <100,Neutral
+1347,1347,short <100,Pretty positive
+1348,1348,short <100,Very negative
+1349,1349,short <100,Neutral
+1350,1350,short <100,Neutral
+1351,1351,short <100,Neutral
+1352,1352,short <100,Neutral
+1353,1353,medium 100-500,Pretty positive
+1354,1354,short <100,Neutral
+1355,1355,medium 100-500,Pretty positive
+1356,1356,short <100,Neutral
+1357,1357,medium 100-500,Pretty positive
+1358,1358,medium 100-500,Pretty negative
+1359,1359,short <100,Pretty negative
+1360,1360,short <100,Pretty positive
+1361,1361,short <100,Neutral
+1362,1362,short <100,Neutral
+1363,1363,short <100,Neutral
+1364,1364,medium 100-500,Pretty positive
+1365,1365,short <100,Pretty positive
+1366,1366,short <100,Neutral
+1367,1367,short <100,Neutral
+1368,1368,short <100,Pretty positive
+1369,1369,short <100,Pretty positive
+1370,1370,short <100,Quite positive
+1371,1371,short <100,Neutral
+1372,1372,short <100,Pretty positive
+1373,1373,short <100,Quite positive
+1374,1374,short <100,Neutral
+1375,1375,medium 100-500,Pretty negative
+1376,1376,short <100,Pretty negative
+1377,1377,medium 100-500,Pretty positive
+1378,1378,short <100,Pretty positive
+1379,1379,short <100,Pretty positive
+1380,1380,medium 100-500,Neutral
+1381,1381,short <100,Pretty positive
+1382,1382,short <100,Neutral
+1383,1383,short <100,Pretty positive
+1384,1384,short <100,Pretty negative
+1385,1385,short <100,Neutral
+1386,1386,short <100,Pretty positive
+1387,1387,short <100,Neutral
+1388,1388,medium 100-500,Neutral
+1389,1389,short <100,Pretty negative
+1390,1390,medium 100-500,Pretty positive
+1391,1391,short <100,Pretty positive
+1392,1392,short <100,Pretty positive
+1393,1393,short <100,Neutral
+1394,1394,medium 100-500,Pretty positive
+1395,1395,medium 100-500,Neutral
+1396,1396,medium 100-500,Pretty positive
+1397,1397,short <100,Pretty positive
+1398,1398,medium 100-500,Pretty positive
+1399,1399,medium 100-500,Pretty positive
+1400,1400,short <100,Neutral
+1401,1401,short <100,Pretty negative
+1402,1402,short <100,Pretty positive
+1403,1403,short <100,Neutral
+1404,1404,short <100,Quite negative
+1405,1405,short <100,Pretty negative
+1406,1406,medium 100-500,Pretty positive
+1407,1407,short <100,Pretty negative
+1408,1408,short <100,Pretty positive
+1409,1409,short <100,Pretty positive
+1410,1410,short <100,Pretty positive
+1411,1411,short <100,Neutral
+1412,1412,short <100,Neutral
+1413,1413,short <100,Neutral
+1414,1414,short <100,Pretty negative
+1415,1415,short <100,Neutral
+1416,1416,short <100,Pretty positive
+1417,1417,medium 100-500,Pretty negative
+1418,1418,short <100,Neutral
+1419,1419,medium 100-500,Neutral
+1420,1420,short <100,Pretty positive
+1421,1421,medium 100-500,Pretty positive
+1422,1422,short <100,Neutral
+1423,1423,medium 100-500,Pretty negative
+1424,1424,short <100,Pretty positive
+1425,1425,short <100,Quite positive
+1426,1426,medium 100-500,Neutral
+1427,1427,short <100,Neutral
+1428,1428,short <100,Pretty negative
+1429,1429,short <100,Neutral
+1430,1430,short <100,Neutral
+1431,1431,medium 100-500,Pretty positive
+1432,1432,short <100,Pretty positive
+1433,1433,short <100,Neutral
+1434,1434,short <100,Pretty positive
+1435,1435,medium 100-500,Pretty positive
+1436,1436,short <100,Neutral
+1437,1437,short <100,Neutral
+1438,1438,medium 100-500,Pretty negative
+1439,1439,short <100,Pretty negative
+1440,1440,medium 100-500,Pretty negative
+1441,1441,medium 100-500,Pretty positive
+1442,1442,short <100,Neutral
+1443,1443,short <100,Neutral
+1444,1444,short <100,Neutral
+1445,1445,medium 100-500,Pretty positive
+1446,1446,short <100,Pretty positive
+1447,1447,short <100,Neutral
+1448,1448,short <100,Pretty positive
+1449,1449,short <100,Neutral
+1450,1450,medium 100-500,Pretty positive
+1451,1451,short <100,Neutral
+1452,1452,short <100,Neutral
+1453,1453,short <100,Pretty positive
+1454,1454,short <100,Neutral
+1455,1455,medium 100-500,Pretty negative
+1456,1456,medium 100-500,Pretty positive
+1457,1457,short <100,Pretty negative
+1458,1458,short <100,Pretty negative
+1459,1459,short <100,Neutral
+1460,1460,short <100,Neutral
+1461,1461,short <100,Neutral
+1462,1462,short <100,Pretty positive
+1463,1463,medium 100-500,Pretty negative
+1464,1464,short <100,Neutral
+1465,1465,short <100,Pretty positive
+1466,1466,short <100,Neutral
+1467,1467,medium 100-500,Neutral
+1468,1468,short <100,Pretty positive
+1469,1469,short <100,Pretty positive
+1470,1470,short <100,Neutral
+1471,1471,medium 100-500,Pretty negative
+1472,1472,short <100,Neutral
+1473,1473,short <100,Neutral
+1474,1474,short <100,Pretty positive
+1475,1475,short <100,Neutral
+1476,1476,short <100,Neutral
+1477,1477,short <100,Neutral
+1478,1478,short <100,Neutral
+1479,1479,short <100,Pretty positive
+1480,1480,medium 100-500,Pretty positive
+1481,1481,short <100,
+1482,1482,short <100,Pretty positive
+1483,1483,short <100,Neutral
+1484,1484,short <100,Pretty negative
+1485,1485,medium 100-500,Pretty negative
+1486,1486,short <100,Neutral
+1487,1487,short <100,Pretty positive
+1488,1488,medium 100-500,Pretty positive
+1489,1489,short <100,Neutral
+1490,1490,short <100,Pretty negative
+1491,1491,medium 100-500,Pretty negative
+1492,1492,short <100,Neutral
+1493,1493,short <100,Neutral
+1494,1494,short <100,Neutral
+1495,1495,medium 100-500,Pretty positive
+1496,1496,short <100,Neutral
+1497,1497,medium 100-500,Pretty negative
+1498,1498,medium 100-500,Pretty positive
+1499,1499,short <100,Quite negative
+1500,1500,short <100,Neutral
+1501,1501,short <100,Pretty negative
+1502,1502,medium 100-500,Pretty positive
+1503,1503,medium 100-500,Pretty negative
+1504,1504,medium 100-500,Pretty positive
+1505,1505,medium 100-500,Pretty negative
+1506,1506,medium 100-500,Neutral
+1507,1507,short <100,Pretty negative
+1508,1508,short <100,Pretty positive
+1509,1509,short <100,Neutral
+1510,1510,short <100,Neutral
+1511,1511,short <100,Pretty negative
+1512,1512,medium 100-500,Pretty positive
+1513,1513,short <100,Pretty positive
+1514,1514,short <100,Neutral
+1515,1515,medium 100-500,Pretty positive
+1516,1516,short <100,
+1517,1517,short <100,Pretty positive
+1518,1518,short <100,Neutral
+1519,1519,short <100,Neutral
+1520,1520,medium 100-500,Pretty negative
+1521,1521,medium 100-500,Pretty positive
+1522,1522,short <100,Neutral
+1523,1523,short <100,Pretty positive
+1524,1524,short <100,Neutral
+1525,1525,short <100,Pretty positive
+1526,1526,medium 100-500,Pretty negative
+1527,1527,short <100,Neutral
+1528,1528,short <100,Pretty negative
+1529,1529,short <100,Pretty negative
+1530,1530,short <100,Neutral
+1531,1531,short <100,Pretty positive
+1532,1532,short <100,Pretty negative
+1533,1533,short <100,Pretty positive
+1534,1534,short <100,Neutral
+1535,1535,short <100,Pretty positive
+1536,1536,short <100,Neutral
+1537,1537,short <100,Pretty positive
+1538,1538,medium 100-500,Pretty positive
+1539,1539,short <100,Neutral
+1540,1540,short <100,Pretty positive
+1541,1541,short <100,Pretty positive
+1542,1542,medium 100-500,Pretty positive
+1543,1543,short <100,Neutral
+1544,1544,medium 100-500,Neutral
+1545,1545,medium 100-500,Pretty negative
+1546,1546,short <100,Pretty negative
+1547,1547,short <100,Neutral
+1548,1548,medium 100-500,Neutral
+1549,1549,short <100,Neutral
+1550,1550,short <100,Pretty positive
+1551,1551,medium 100-500,Neutral
+1552,1552,short <100,Pretty negative
+1553,1553,short <100,Pretty negative
+1554,1554,medium 100-500,Pretty positive
+1555,1555,short <100,Neutral
+1556,1556,short <100,Pretty positive
+1557,1557,short <100,Neutral
+1558,1558,short <100,Neutral
+1559,1559,short <100,Pretty positive
+1560,1560,short <100,Neutral
+1561,1561,short <100,Neutral
+1562,1562,short <100,Pretty positive
+1563,1563,short <100,Neutral
+1564,1564,short <100,Pretty negative
+1565,1565,short <100,Pretty negative
+1566,1566,short <100,Neutral
+1567,1567,medium 100-500,Pretty positive
+1568,1568,short <100,Neutral
+1569,1569,short <100,Pretty negative
+1570,1570,short <100,Neutral
+1571,1571,short <100,Pretty negative
+1572,1572,medium 100-500,Pretty negative
+1573,1573,short <100,Neutral
+1574,1574,medium 100-500,Pretty positive
+1575,1575,short <100,Neutral
+1576,1576,medium 100-500,Neutral
+1577,1577,short <100,Pretty negative
+1578,1578,medium 100-500,Neutral
+1579,1579,medium 100-500,Pretty positive
+1580,1580,short <100,Neutral
+1581,1581,short <100,Quite negative
+1582,1582,short <100,Pretty positive
+1583,1583,short <100,Pretty negative
+1584,1584,short <100,Neutral
+1585,1585,short <100,Pretty positive
+1586,1586,short <100,Pretty negative
+1587,1587,short <100,Pretty negative
+1588,1588,medium 100-500,Pretty positive
+1589,1589,short <100,Pretty positive
+1590,1590,short <100,Pretty positive
+1591,1591,medium 100-500,Pretty positive
+1592,1592,short <100,Pretty positive
+1593,1593,short <100,Neutral
+1594,1594,short <100,Neutral
+1595,1595,short <100,Pretty positive
+1596,1596,short <100,Neutral
+1597,1597,short <100,Neutral
+1598,1598,short <100,Pretty positive
+1599,1599,short <100,Neutral
+1600,1600,short <100,Pretty positive
+1601,1601,short <100,Pretty negative
+1602,1602,short <100,Pretty negative
+1603,1603,short <100,Neutral
+1604,1604,short <100,Neutral
+1605,1605,short <100,Pretty negative
+1606,1606,short <100,Neutral
+1607,1607,short <100,Neutral
+1608,1608,short <100,Neutral
+1609,1609,short <100,Neutral
+1610,1610,short <100,Neutral
+1611,1611,short <100,Pretty negative
+1612,1612,short <100,Pretty negative
+1613,1613,medium 100-500,Pretty positive
+1614,1614,short <100,Pretty positive
+1615,1615,short <100,Neutral
+1616,1616,short <100,Neutral
+1617,1617,short <100,Neutral
+1618,1618,short <100,Neutral
+1619,1619,short <100,Neutral
+1620,1620,medium 100-500,Pretty negative
+1621,1621,medium 100-500,Pretty positive
+1622,1622,medium 100-500,Neutral
+1623,1623,short <100,Pretty positive
+1624,1624,short <100,Pretty positive
+1625,1625,short <100,Neutral
+1626,1626,short <100,Neutral
+1627,1627,short <100,Neutral
+1628,1628,short <100,Pretty negative
+1629,1629,short <100,Neutral
+1630,1630,medium 100-500,Pretty positive
+1631,1631,short <100,Neutral
+1632,1632,medium 100-500,Pretty positive
+1633,1633,medium 100-500,Pretty negative
+1634,1634,short <100,Neutral
+1635,1635,medium 100-500,Pretty positive
+1636,1636,medium 100-500,Pretty positive
+1637,1637,short <100,Pretty negative
+1638,1638,short <100,Neutral
+1639,1639,short <100,Neutral
+1640,1640,short <100,Pretty positive
+1641,1641,short <100,Pretty negative
+1642,1642,medium 100-500,Pretty negative
+1643,1643,short <100,Neutral
+1644,1644,short <100,Neutral
+1645,1645,short <100,Neutral
+1646,1646,short <100,Pretty positive
+1647,1647,medium 100-500,Pretty negative
+1648,1648,short <100,Neutral
+1649,1649,short <100,Pretty positive
+1650,1650,short <100,Pretty positive
+1651,1651,short <100,Neutral
+1652,1652,medium 100-500,Pretty positive
+1653,1653,medium 100-500,Pretty negative
+1654,1654,short <100,Pretty negative
+1655,1655,short <100,Pretty negative
+1656,1656,short <100,Pretty positive
+1657,1657,short <100,Neutral
+1658,1658,short <100,Pretty positive
+1659,1659,short <100,Neutral
+1660,1660,medium 100-500,Pretty positive
+1661,1661,short <100,Neutral
+1662,1662,short <100,Pretty positive
+1663,1663,short <100,Neutral
+1664,1664,short <100,Pretty positive
+1665,1665,short <100,Neutral
+1666,1666,short <100,Pretty positive
+1667,1667,short <100,Pretty negative
+1668,1668,medium 100-500,Pretty positive
+1669,1669,short <100,Pretty positive
+1670,1670,short <100,Pretty positive
+1671,1671,short <100,Pretty positive
+1672,1672,short <100,Pretty positive
+1673,1673,medium 100-500,Neutral
+1674,1674,short <100,Pretty positive
+1675,1675,short <100,Neutral
+1676,1676,medium 100-500,Pretty positive
+1677,1677,short <100,Pretty negative
+1678,1678,short <100,Quite positive
+1679,1679,short <100,Neutral
+1680,1680,short <100,Pretty positive
+1681,1681,medium 100-500,Pretty positive
+1682,1682,short <100,Neutral
+1683,1683,medium 100-500,Pretty positive
+1684,1684,medium 100-500,Pretty positive
+1685,1685,short <100,Neutral
