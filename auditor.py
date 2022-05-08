@@ -143,10 +143,10 @@ def get_index_by_group(demographic_df, groups_of_interest):
     for group_type in [*groups_of_interest]:
         temp={}
         for group in groups_of_interest[group_type]:
-            temp[group] = demographic_df.loc[demographic_df[group_type] == group].index
+            temp[group] = demographic_df.loc[demographic_df[group_type] == group].index.values
 
         # "others" is just all other rows:
-        temp["others"] = demographic_df[~demographic_df[group_type].isin(groups_of_interest[group_type])].index
+        temp["others"] = demographic_df[~demographic_df[group_type].isin(groups_of_interest[group_type])].index.values
 
         group_index[group_type] = temp
     
